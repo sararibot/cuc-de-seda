@@ -1,0 +1,12 @@
+# Carpeta de dependències
+node_modules/
+
+# Carpeta de fitxers generats per Tailwind
+dist/
+
+# Fitxers temporals
+.DS_Store
+
+# Fitxers de configuració de l'editor (si n'hi ha)
+*.log
+
